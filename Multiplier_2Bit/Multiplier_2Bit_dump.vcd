@@ -1,0 +1,130 @@
+$date
+	Sat Sep 26 14:36:13 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Multiplier_2Bit_tb $end
+$var wire 1 ! p3 $end
+$var wire 1 " p2 $end
+$var wire 1 # p1 $end
+$var wire 1 $ p0 $end
+$var reg 1 % a0 $end
+$var reg 1 & a1 $end
+$var reg 1 ' b0 $end
+$var reg 1 ( b1 $end
+$var integer 32 ) i [31:0] $end
+$var integer 32 * j [31:0] $end
+$scope module uut $end
+$var wire 1 % a0 $end
+$var wire 1 & a1 $end
+$var wire 1 ' b0 $end
+$var wire 1 ( b1 $end
+$var wire 1 ! p3 $end
+$var wire 1 " p2 $end
+$var wire 1 # p1 $end
+$var wire 1 $ p0 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 *
+b0 )
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10000
+1'
+b1 *
+#20000
+1(
+0'
+b10 *
+#30000
+1'
+b11 *
+#40000
+0(
+0'
+1%
+b1 )
+b0 *
+#50000
+1$
+1'
+b1 *
+#60000
+1#
+0$
+1(
+0'
+b10 *
+#70000
+1$
+1'
+b11 *
+#80000
+0$
+0#
+0(
+0'
+1&
+0%
+b10 )
+b0 *
+#90000
+1#
+1'
+b1 *
+#100000
+1"
+0#
+1(
+0'
+b10 *
+#110000
+1#
+1'
+b11 *
+#120000
+0#
+0"
+0(
+0'
+1%
+b11 )
+b0 *
+#130000
+1$
+1#
+1'
+b1 *
+#140000
+1"
+0$
+1(
+0'
+b10 *
+#150000
+1$
+0#
+0"
+1!
+1'
+b11 *
+#160000
+b100 )
+b100 *
