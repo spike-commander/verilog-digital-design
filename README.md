@@ -5,7 +5,7 @@ just a messy repo where i am practicing digital logic design and messing around 
 right now i'm working on linux using neovim to write code, iverilog to compile everything, and gtkwave to look at the waves. 
 
 ### what's in here right now:
-- a basic nand gate to get started
+- basic nand, and, or gate to get started
 - half adder and full adder circuits
 - a 2-bit multiplier (hierarchical design)
 
